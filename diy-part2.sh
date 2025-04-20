@@ -22,4 +22,4 @@ sed -i 's/192.168.1.1/192.168.2.2/g' package/base-files/files/bin/config_generat
 #add dingshi
 #git clone https://github.com/sirpdboy/luci-app-autotimeset package/luci-app-autotimeset
 #add 雷神加速器
-git clone https://github.com/miaoermua/luci-app-leigod-acc.git luci-app-leigod-acc
+git clone https://github.com/miaoermua/luci-app-leigod-acc.git package/luci-app-leigod-acc
